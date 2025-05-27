@@ -19,6 +19,9 @@ setup(
     name='hello_world',
     version=__version__,
     license="MIT",
+    author="Ivan Ivanov",
+    author_email="ivan@example.com",
+    url="https://github.com/alezander86/python38up",
     packages=find_packages(),
     include_package_data=True,
 
