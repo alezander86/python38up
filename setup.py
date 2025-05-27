@@ -18,6 +18,7 @@ class VersionCommand(Command):
 setup(
     name='hello_world',
     version=__version__,
+    license="MIT",
     packages=find_packages(),
     include_package_data=True,
 
